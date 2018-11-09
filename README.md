@@ -80,6 +80,9 @@ This are the set of Indeterminate Progress Indicators.
 ## Shooting Stars
 ![Shooting Stars](/Images/ShootingStars.gif)
 
+## Gradient
+![Gradient](/Images/Gradient.gif)
+
 ## Rotating Arc
 ![Rotating Arc](/Images/RotatingArc.gif)
 
